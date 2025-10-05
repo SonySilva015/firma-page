@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://firma-pjf.vercel.app/
